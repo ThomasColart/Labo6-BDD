@@ -1,0 +1,8 @@
+E:\IESN\BDAvances\Labo 6\Labo6-BDD\bin\Debug\netstandard2.0\Labo6-BDD.deps.json
+E:\IESN\BDAvances\Labo 6\Labo6-BDD\bin\Debug\netstandard2.0\Labo6-BDD.dll
+E:\IESN\BDAvances\Labo 6\Labo6-BDD\bin\Debug\netstandard2.0\Labo6-BDD.pdb
+E:\IESN\BDAvances\Labo 6\Labo6-BDD\obj\Debug\netstandard2.0\Labo6-BDD.csproj.CoreCompileInputs.cache
+E:\IESN\BDAvances\Labo 6\Labo6-BDD\obj\Debug\netstandard2.0\Labo6-BDD.AssemblyInfoInputs.cache
+E:\IESN\BDAvances\Labo 6\Labo6-BDD\obj\Debug\netstandard2.0\Labo6-BDD.AssemblyInfo.cs
+E:\IESN\BDAvances\Labo 6\Labo6-BDD\obj\Debug\netstandard2.0\Labo6-BDD.dll
+E:\IESN\BDAvances\Labo 6\Labo6-BDD\obj\Debug\netstandard2.0\Labo6-BDD.pdb
